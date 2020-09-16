@@ -1,0 +1,6 @@
+
+Z
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(Ô­Šð8ˆÀØ°É.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºñÕßùÿÿÿÿ8ˆÀØ°É.
+\
+java:S1117"?Rename "maxBendAngle" which hides the field declared at line 4.(Ô­Šð8“‹‘°É.

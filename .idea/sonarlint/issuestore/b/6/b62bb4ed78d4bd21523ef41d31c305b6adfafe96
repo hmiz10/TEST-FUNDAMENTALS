@@ -1,0 +1,10 @@
+
+_
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(ş·ˆùÿÿÿÿ8ÁÁØ°É.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºñÕßùÿÿÿÿ8ÁÁØ°É.
+_
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(Ô¦È›øÿÿÿÿ8ÁÁØ°É.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(„¨°¿üÿÿÿÿ8ÁÁØ°É.
+H
+java:S1172"+Remove this unused method parameter "args".(Çµí‘8ÁÁØ°É.

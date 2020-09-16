@@ -1,0 +1,8 @@
+
+S
+java:S1068"1Remove this unused "isHyperactive" private field.(Ò‘éùÿÿÿÿ8Êûë°É.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡€»ğûÿÿÿÿ
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğª¾Óûÿÿÿÿ8³èê°É.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Ã—É8³èê°É.
